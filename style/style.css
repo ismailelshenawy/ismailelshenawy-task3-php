@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(1, 2, 4);
+   
+
+}
+h1{
+    color: rgb(211, 241, 14);
+    text-align: center;
+    border: 2px solid   rgb(145, 20, 20);
+    /* width: fit-content; */
+}
+.form{
+    text-align: center;
+    width: 75%;
+    margin: auto;
+    font-size: larger;
+    color: blanchedalmond;
+}
+.inputEmail{
+    margin: 5px;
+}
+.inputPassword{
+    margin: 5px;
+}
+button{
+    background-color: blueviolet;
+    color: black;
+    padding: 5px;
+    transition: all 0.5s ease-in-out;
+    margin: 5px;
+
+}
+button:hover{
+   
+    background-color: rgb(56, 8, 101);
+    color: chartreuse;
+}
